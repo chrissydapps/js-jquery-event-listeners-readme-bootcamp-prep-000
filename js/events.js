@@ -43,8 +43,3 @@ function submitIt() {
 $(document).ready(function(){
   getIt(); frameIt(); pressIt(); submitIt();
 })
-=======
-
-$(document).ready(init)
-});
->>>>>>> b19f2adeafa810fa52448210536d0e5e9076b2d4
